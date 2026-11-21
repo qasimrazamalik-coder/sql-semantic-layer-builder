@@ -1,0 +1,4 @@
+interface:
+  display_name: "SQL Semantic Layer Builder"
+  short_description: "Convert an authorized table schema into a draft semantic layer of dimensions, measures and vali"
+  default_prompt: "Use @sql-semantic-layer-builder on my authorized input and return a validated result."

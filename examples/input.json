@@ -1,0 +1,14 @@
+{
+  "columns": [
+    {
+      "name": "customer_id",
+      "type": "string",
+      "description": "Customer identifier"
+    },
+    {
+      "name": "revenue",
+      "type": "decimal",
+      "description": "Net revenue"
+    }
+  ]
+}
