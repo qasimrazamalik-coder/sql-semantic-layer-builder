@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "SQL Semantic Layer Builder"
+message: "If this skill supports your work, cite the repository."
+type: software
+authors:
+  - family-names: "Malik"
+    given-names: "Qasim Raza"
+year: 2026
+license: MIT
+repository-code: "https://github.com/qasimrazamalik-coder/sql-semantic-layer-builder"
+url: "https://github.com/qasimrazamalik-coder/sql-semantic-layer-builder"
